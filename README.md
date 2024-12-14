@@ -15,4 +15,4 @@ The goal is to sharpen my skills in **HTML**, **CSS**, and **JavaScript** by cre
 
   ## 🌟 Projects List  
 Below is the list of completed projects:  
-<!-- 1. **Day 1**: Project Name ([Demo](link-to-live-demo) | [Code](link-to-code))   -->
+1. **Day 1**: Expanding Cards([Code](https://github.com/sinemgrbz/50projects50days/tree/main/Day01-ExpandingCards))  
